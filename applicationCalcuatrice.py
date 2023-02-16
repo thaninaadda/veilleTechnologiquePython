@@ -1,3 +1,5 @@
+
+
 A = float(input("veuillez saisir la valeur de A: "))
 op = input("veuillez saisir l'operateur: ")
 B = float(input("veuillez saisir la valeur de B: "))
@@ -17,4 +19,4 @@ elif op=="*":
     print("A * B =", A*B)
 
 else:
-    print("l'operation est correcte et fonctionnelle")
+    print("L'operation est correcte et fonctionnelle")
